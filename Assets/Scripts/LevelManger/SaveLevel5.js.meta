@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 07cd756b6e2767d43a8fc7c424fff6ef
+timeCreated: 1465913532
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lvl: {fileID: 119078, guid: ba9e02c5b56e1ef4ebfa14a300e0c6af, type: 2}
+  - interactableb: {fileID: 11430460, guid: ba9e02c5b56e1ef4ebfa14a300e0c6af, type: 2}
+  - lock: {fileID: 127580, guid: ba9e02c5b56e1ef4ebfa14a300e0c6af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

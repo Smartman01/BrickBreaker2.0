@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75f75cd113bd3e842b6d29579aaa71bb
+timeCreated: 1465588804
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameController: {fileID: 11402888, guid: 859929c9b48ffbe4facc04ff22d7cea9, type: 2}
+  - brickParticle: {fileID: 470912, guid: 7e4289847931cd34e837662c426159df, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

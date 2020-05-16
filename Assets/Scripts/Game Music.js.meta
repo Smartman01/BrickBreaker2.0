@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d6bd5e59fddd1274caf5ae336076f718
+timeCreated: 1463863124
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SoundClip: {fileID: 8300000, guid: 81c18e0cba1473d41962fa9199dfe550, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
